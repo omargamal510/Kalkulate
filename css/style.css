@@ -224,9 +224,6 @@ hr {
     transition:all .5s linear;
 }
 
-.contact-nav section i:hover {
-    border:1px solid #1490d7;
-}
 
 .toggle-color {
     color:#1490d7;
