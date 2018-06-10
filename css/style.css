@@ -233,6 +233,12 @@ hr {
     transition:all .5s linear;
 }
 
+.contact-nav section i {
+    height:50px;
+    width:50px;
+    border-radius:50%;
+    padding:0;
+}
 
 /* End Contact Navbar */
 
